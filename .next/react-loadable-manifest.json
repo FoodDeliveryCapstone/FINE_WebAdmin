@@ -1,0 +1,20 @@
+{
+  "../components/animate/MotionLazyContainer.tsx -> ./features.js": {
+    "id": "../components/animate/MotionLazyContainer.tsx -> ./features.js",
+    "files": [
+      "static/chunks/src_components_animate_features_js.js"
+    ]
+  },
+  "../components/chart/index.ts -> react-apexcharts": {
+    "id": "../components/chart/index.ts -> react-apexcharts",
+    "files": [
+      "static/chunks/node_modules_react-apexcharts_dist_react-apexcharts_min_js.js"
+    ]
+  },
+  "../components/editor/index.tsx -> react-quill": {
+    "id": "../components/editor/index.tsx -> react-quill",
+    "files": [
+      "static/chunks/node_modules_react-quill_lib_index_js.js"
+    ]
+  }
+}
